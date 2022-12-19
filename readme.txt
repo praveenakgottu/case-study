@@ -1,7 +1,6 @@
 Steps to run the app
 
-1. Got src directory:
-cd src
+1. Move to repository directory
 
 2. Install dependencies
 pip install -r requirements.txt
